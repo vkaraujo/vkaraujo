@@ -1,3 +1,6 @@
+![Updated](https://img.shields.io/github/last-commit/vkaraujo/vkaraujo?color=green&label=Last%20update)
+
+
 # 👋 About Me
 
 Hey there! I'm **Viktor Waissmann**, a Web Developer from Rio de Janeiro 🇧🇷.
@@ -29,11 +32,10 @@ I love reading, playing Dungeons & Dragons, and grabbing a beer with friends.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vkaraujo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vkaraujo&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vkaraujo/vkaraujo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vkaraujo/vkaraujo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/vkaraujo/vkaraujo/output/github-snake.svg" />
 </picture>
+

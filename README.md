@@ -22,6 +22,27 @@ I love reading, playing Dungeons & Dragons, and grabbing a beer with friends.
 
 </br>
 
+## 📂 Projects & Articles
+
+### 💎 Ruby / Rails Projects
+- [StrayPawBridge](https://github.com/vkaraujo/stray_paw_bridge) – A full-stack pet adoption marketplace built with Rails + Hotwire
+- [APIpalooza](https://github.com/vkaraujo/APIpalooza) – Festival-themed API showcase featuring multiple external integrations
+- [Quirky NPC Service](https://github.com/vkaraujo/quirky-npc-service) – Random NPC generator for TTRPGs with OpenAPI support
+- [audit_log](https://github.com/vkaraujo/audit_log) – Custom Ruby gem for audit logging in Rails apps
+- [Daily Coding Problem](https://github.com/vkaraujo/DailyCodingProblem) – A structured archive of algorithm challenges solved in Ruby
+
+### ⚛️ React / Frontend Projects
+- [React Movies](https://github.com/vkaraujo/reactmovies) – A clean React app using the TMDB API
+- [Cezar Grid](https://github.com/vkaraujo/cezar-grid) – A one-page responsive portfolio for an engineer client
+- [To-do List](https://github.com/vkaraujo/todo-list) – A productivity app built with React + Vite + Testing Library
+- [Digital Clock](https://github.com/vkaraujo/digital-clock) – A lightweight digital clock component
+
+### Articles
+- [ What I Learned Building My First Ruby Gem](https://dev.to/viktor_araujo_f19ca3ee4cb/what-i-learned-building-my-first-ruby-gem-peeking-behind-the-rails-curtain-58cc)
+- [ O que é mocking e por que é importante (PT-BR)](https://hackthetask.com.br/2023/09/13/o-que-e-mocking-e-por-que-e-importante/)
+
+</br>
+
 # 💻 Tech Stack:
 
 <!-- 🔧 Core Programming & Frameworks -->
